@@ -9,6 +9,7 @@ This release contains:
 - lemma+part of speech (POS) ngram lists. Created with MADAMIRA (Pasha et al. 2014) and NLTK (Loper & Bird 2002)
 - root ngram lists. Created with a manually Jordanian-augmented version of Khoja (Khoja & Garside 1999) and NLTK (Loper & Bird 2002)
 - stem:whole word transition probability: contains one value per multimorphemic word (see Lewis, Solomyak, and Marantz 2011)
+
 This release is sourced from the following:
 - blogs
 - opinion columns
